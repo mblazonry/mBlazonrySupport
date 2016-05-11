@@ -2,7 +2,7 @@
 
 This is the issue-tracker for all mBlazonry components! 
 
-Please click the title to go to the issue tracker :neckbeard:
+Please click [the title](https://github.com/aklef/mBlazonryComponentIssues/issues) to go to the issue tracker :neckbeard:
 
 
 
