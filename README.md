@@ -1,10 +1,10 @@
-# [Home of mBlazonry's Components Issue Tracker](https://github.com/aklef/mBlazonryComponentIssues/issues) #
+# [Home of mBlazonry's Issue Tracker](https://github.com/aklef/mBlazonrySupport/issues) #
 
-[This](https://github.com/aklef/mBlazonryComponentIssues/issues) is the issue-tracker for mBlazonry components! 
+[Here](https://github.com/aklef/mBlazonrySupport/issues) is the issue-tracker for all mBlazonry components! 
 
-Members of the mBlazonry team monitor this regularly and will rapidly and diligently be able to assist you!
+Members of the mBlazonry team monitor this repo regularly for new posts. We will rapidly and diligently assist you!
 
-Feel free to post your feature-requests, improvement ideas & anything you might want to see out of mB! :squirrel:
+Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
 
 [Go to issue tracker](https://github.com/aklef/mBlazonryComponentIssues/issues)  :neckbeard:
 
