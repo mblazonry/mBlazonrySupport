@@ -18,7 +18,7 @@ Please note the following:
 2. The actual *timer* styling is very limited. 
 3. This is written strictly for Skuid 7.x (Banzai) and newer. 
 
-## DEMOS:  ## 
+## DEMOS: ##
 
 (YouTube video) Part 1: the runtime!
 
