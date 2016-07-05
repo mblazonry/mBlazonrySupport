@@ -27,7 +27,7 @@
  
 3. It should look like this:
 
-![Component Pack creation](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414429/RackMultipart20160512-49271-225l4n-Component_Pack_creation_inline.png)
+![Component Pack creation](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414429/RackMultipart20160512-49271-225l4n-Component_Pack_creation.png)
 
 You can modify the component pack to fit your specific namespace if need be.
 
@@ -35,16 +35,17 @@ You can modify the component pack to fit your specific namespace if need be.
 
 1. Go to the SF menu, search for "Static Resources".
 
-2. Find the "mBlazonryComponents" resource, open it, click "Edit" and upload the .zip file from here. 
-It should look like this: *(case-sensitive!)*
+2. Find the "mBlazonryComponents" resource, open it, click "Edit" and upload the [.zip from here](https://drive.google.com/file/d/0B3NE4VBwMig0Skh4UTJkdzV0MU0). 
+	
+3. It should look like this: *(case-sensitive!)*
 
-    ![Static Resource creation part 1](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414429/RackMultipart20160512-49271-225l4n-Component_Pack_creation_inline.png)
+    ![Static Resource creation part 1](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414420/RackMultipart20160512-99916-ewywni-Component_Pack.png)
 
-3. Create a new static resource with the following information: *(case-sensitive!)* 
+4. Create a new static resource with the following information: *(case-sensitive!)* 
 
-	![Component Pack creation part2](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414423/RackMultipart20160512-102723-195rk6a-CounterStaticResource_inline.png) 
+	![Component Pack creation part2](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414423/RackMultipart20160512-102723-195rk6a-CounterStaticResource.png) 
 
-using the [.zip from here](https://drive.google.com/file/d/0B3NE4VBwMig0U05leEVRcy1yRms/view?usp=sharing).
+	using the [.zip from here](https://drive.google.com/file/d/0B3NE4VBwMig0U05leEVRcy1yRms).
 
 ## Using static resources in skuid ##
 
@@ -52,25 +53,25 @@ using the [.zip from here](https://drive.google.com/file/d/0B3NE4VBwMig0U05leEVR
 
 2. Create the following JS Resource: 
 
-	![Counter Static Resource JS](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414418/RackMultipart20160512-19050-ih8jsa-CounterStaticResourceJS_inline.png?1463011455)
+	![Counter Static Resource JS](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414418/RackMultipart20160512-19050-ih8jsa-CounterStaticResourceJS.png)
 
 3. And the following CSS Resource:
 
-	![Counter Static Resource CSS](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414419/RackMultipart20160512-5944-iamf11-CounterStaticResourceCSS_inline.png?1463011489)
+	![Counter Static Resource CSS](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414419/RackMultipart20160512-5944-iamf11-CounterStaticResourceCSS.png)
 
 ## User object and setup for the page  ##
 
 1. The Timer component was designed to use standard "User" SF object with some added custom fields for persistency. Ours look like:
 
-	![User Object Custom Fields](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414418/RackMultipart20160512-19050-ih8jsa-CounterStaticResourceJS_inline.png)
+	![User Object Custom Fields](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414444/RackMultipart20160512-107188-1h9zsb2-Custom_user_fields.png)
 
 2. Our "CurrentUser" has those fields mapped like so: 
 
-	![skuid CurrentUser Model fields](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414449/RackMultipart20160512-104995-mfm00b-Custom_user_fields_map_inline.png)
+	![skuid CurrentUser Model fields](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414449/RackMultipart20160512-104995-mfm00b-Custom_user_fields_map.png)
 	
-with the following condition: 
+	with the following condition: 
 
-	![UserModel Condition](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414438/RackMultipart20160512-14020-x550fw-CurrentUser_Model_inline.png)
+	![UserModel Condition](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414438/RackMultipart20160512-14020-x550fw-CurrentUser_Model.png)
 	
 ## Component setup  ##
 
