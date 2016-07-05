@@ -1,6 +1,11 @@
 # [mBlazonry's Support Tracker](https://github.com/aklef/mBlazonrySupport/issues) #
 
-[Here](https://github.com/aklef/mBlazonrySupport/issues) is the issue-tracker for all mBlazonry components! 
+Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry components below for their descriptions: 
+
+## Component ##
+
+> ### [Timer](mBlazonrySupport/TIMER.md) ###
+
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
 
