@@ -30,7 +30,7 @@ Part 2: the builder!
 [![Part 1: the runtime!](http://img.youtube.com/vi/vJ2nSqk-kJs/0.jpg)](https://youtu.be/vJ2nSqk-kJs "Timer component - builder demo!")
 
 
-> # [Setup Instructions Here](mBlazonrySupport/INSTALLATION.md) #
+> # [Setup Instructions Here](INSTALLATION.md) #
 
 
 Here's the XML for a [test skuid page](https://gist.github.com/aklef/fbf1fd4995e4d2bb25211410788f7f77) demonstrating the timer. To use it: complete the installation steps above, then create a new skuid page with the same title as the gist and copy/paste the XML shown there. 
