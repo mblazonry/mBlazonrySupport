@@ -19,13 +19,12 @@ Please note:
 3) This is written strictly for Skuid 7.x (Banzai) and newer. 
 
 ## DEMOS:  ## 
-(these are YouTube videos)
 
-Part 1: the runtime!
+(YouTube video) Part 1: the runtime!
 
 [![Part 1: the runtime!](https://img.youtube.com/vi/k0yAfYj-HJI/maxresdefault.jpg)](https://youtu.be/k0yAfYj-HJI "Timer component - runtime demo!")
 
-Part 2: the builder!
+(YouTube video) Part 2: the builder!
 
 [![Part 1: the runtime!](https://img.youtube.com/vi/vJ2nSqk-kJs/maxresdefault.jpg)](https://youtu.be/vJ2nSqk-kJs "Timer component - builder demo!")
 
