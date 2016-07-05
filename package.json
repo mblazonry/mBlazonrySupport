@@ -18,6 +18,10 @@
       "node": ">= 4.2.6",
       "npm": ">= 2.14.12"
    },
+   "devDependencies":
+   {
+      "doctoc": "^1.2.0"
+   },
    "scripts":
    {
       "build-toc": "doctoc README.md"
