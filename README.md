@@ -4,7 +4,7 @@ Click the title ↑ for the issue-tracker, and the relevant names of the mBlazon
 
 ## Component Listing ##
 
-> ### [Timer](mBlazonrySupport/TIMER.md) ###
+> ### [Timer](TIMER.md) ###
 
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
