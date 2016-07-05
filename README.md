@@ -2,7 +2,7 @@
 
 Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry components below for their descriptions: 
 
-## Component ##
+## Component Listing ##
 
 > ### [Timer](mBlazonrySupport/TIMER.md) ###
 
