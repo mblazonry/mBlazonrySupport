@@ -1,6 +1,16 @@
-# INSTALLATION:  #
+# INSTALLATION  #
 
-Follow these steps carefully!
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+####  Tabe of Contents: ####
+
+- [Creating the skuid component pack](#creating-the-skuid-component-pack)
+- [Making SF Static Resources](#making-sf-static-resources)
+- [Using static resources in skuid](#using-static-resources-in-skuid)
+- [User object and setup for the page](#user-object-and-setup-for-the-page)
+- [Component setup](#component-setup)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Creating the skuid component pack  ##
 
