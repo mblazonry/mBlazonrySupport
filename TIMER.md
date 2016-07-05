@@ -6,7 +6,7 @@ Originally posted [here](https://community.skuid.com/skuid/topics/timer-componen
 
 The component runs as a two-part system and is intended to be placed in the header of an orgs' master page. 
 
-The logic is handled by the Timer component in the mBlazonryComponents custom component pack, while the display is handled by my mB fork of [this jQuery-based counter](https://sophilabs.github.io/jquery-counter/). 
+The logic is handled by the Timer component in the mBlazonryComponents custom component pack, while the display is handled by our mB fork of [this jQuery-based counter](https://sophilabs.github.io/jquery-counter/). 
 
 > Aside: we've had to modify the original counter from the link above because it wasn't working the way we wanted it to, and because we may choose to replace it with something better eventually. 
 
