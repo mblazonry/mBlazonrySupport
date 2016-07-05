@@ -23,11 +23,11 @@ Please note:
 
 Part 1: the runtime!
 
-[![Part 1: the runtime!](http://img.youtube.com/vi/k0yAfYj-HJI/0.jpg)](https://youtu.be/k0yAfYj-HJI "Timer component - runtime demo!")
+[![Part 1: the runtime!](https://img.youtube.com/vi/k0yAfYj-HJI/maxresdefault.jpg)](https://youtu.be/k0yAfYj-HJI "Timer component - runtime demo!")
 
 Part 2: the builder!
 
-[![Part 1: the runtime!](http://img.youtube.com/vi/vJ2nSqk-kJs/0.jpg)](https://youtu.be/vJ2nSqk-kJs "Timer component - builder demo!")
+[![Part 1: the runtime!](https://img.youtube.com/vi/vJ2nSqk-kJs/maxresdefault.jpg)](https://youtu.be/vJ2nSqk-kJs "Timer component - builder demo!")
 
 
 > ### [Setup Instructions Here](INSTALLATION.md) ###
