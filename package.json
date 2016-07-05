@@ -1,0 +1,25 @@
+{
+   "name": "mblazonrysupport",
+   "license": "BSD-3-Clause",
+   "author": "Andréas Kaytar-Lefrançois <andreas@mblazonry.com>",
+   "description": "The support tracker for all of mBlazonry's components",
+   "keywords": [
+      "mblazonry",
+      "component",
+      "support"
+   ],
+   "repository":
+   {
+      "type": "git",
+      "url": "https://github.com/mBlazonry/mBlazonrySupport.git"
+   },
+   "engines":
+   {
+      "node": ">= 4.2.6",
+      "npm": ">= 2.14.12"
+   },
+   "scripts":
+   {
+      "build-toc": "doctoc README.md"
+   }
+}
