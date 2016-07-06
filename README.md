@@ -1,8 +1,9 @@
-# [mBlazonry's Support Tracker](https://github.com/aklef/mBlazonrySupport/issues) #
+# mBlazonry's Support Tracker #
 
 Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry support items below for their relevant subsections' descriptions: 
 
 [Go to issue tracker](https://github.com/aklef/mBlazonryComponentIssues/issues)  :neckbeard:
+[Go to issue tracker](../issues)  :neckbeard:
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
 
@@ -11,7 +12,7 @@ Members of the mBlazonry team monitor this repo regularly for new posts. We will
 ## Support Categories  ##
 
 > ### [Components](Components/README.md) ###
-> ### [Snippets](Snippets/Field Renderers/MATHRENDERING.md) ###
+> ### [Snippets](Snippets/README.md) ###
 
 
 
