@@ -9,6 +9,7 @@ Use the links below to go to a specific item's page.
 ## Component Listing ##
 
 > ### [Timer](TIMER.md) ###
+> ### [Template](TEMPLATE.md) ###
 
 
 
