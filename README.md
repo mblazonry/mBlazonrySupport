@@ -3,7 +3,9 @@
 Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry support items below for their relevant subsections' descriptions: 
 
 [Go to issue tracker](https://github.com/aklef/mBlazonryComponentIssues/issues)  :neckbeard:
+[Go to issue tracker](/../issues)  :neckbeard:
 [Go to issue tracker](../issues)  :neckbeard:
+[Go to issue tracker](/../../issues)  :neckbeard:
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
 

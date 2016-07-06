@@ -5,7 +5,7 @@
 Use the links below to go to a specific item's page.
 
 [Go to issue tracker](https://github.com/mBlazonry/mBlazonrySupport/issues)  :neckbeard:
-[Go to issue tracker](../issues)  :neckbeard:
+[Go to issue tracker](/../issues)  :neckbeard:
 
 ### [Installation Instructions](INSTALLATION.md) ###
 
