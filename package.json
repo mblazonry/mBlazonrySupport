@@ -24,6 +24,6 @@
    },
    "scripts":
    {
-      "build-toc": "doctoc README.md"
+      "build-toc": "doctoc .\Components\INSTALLATION.md --notitle --github"
    }
 }
