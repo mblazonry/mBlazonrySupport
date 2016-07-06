@@ -1,10 +1,11 @@
 # [mBlazonry's Support Tracker](https://github.com/aklef/mBlazonrySupport/issues) #
 
-Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry components below for their descriptions: 
+Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry support items below for their relevant subsections' descriptions: 
 
-## Component Listing ##
+## Support items  ##
 
-> ### [Timer](TIMER.md) ###
+> ### [Components](Components/README.md) ###
+> ### [Snippets](Snippets/Field Renderers/MATHRENDERING.md) ###
 
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
