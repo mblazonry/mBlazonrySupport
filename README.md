@@ -1,17 +1,21 @@
-# [mBlazonry's Support Tracker](https://github.com/aklef/mBlazonrySupport/issues) #
+# mBlazonry's Support Tracker #
 
-Click the title ↑ for the issue-tracker, and the relevant names of the mBlazonry components below for their descriptions: 
+Navigate the link ↓below↓ for the issue-tracker, or the relevant names of the [mBlazonry support items](#support-categories) below that you wish to see for their relevant subsections' description: 
 
-## Component Listing ##
-
-> ### [Timer](TIMER.md) ###
-
+[Go to issue tracker](/../../issues)  :neckbeard:
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
 
-Members of the mBlazonry team monitor this repo regularly for new posts. We will rapidly and diligently assist you!
+Members of the mBlazonry team monitor this repo regularly for new posts. 
+We will rapidly and diligently assist you!
 
-[Go to issue tracker](https://github.com/aklef/mBlazonryComponentIssues/issues)  :neckbeard:
+## Support Categories  ##
+
+> ### [Components](Components/README.md) ###
+> ### [Snippets](Snippets/README.md) ###
+
+
+
 
 
 
