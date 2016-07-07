@@ -1,6 +1,6 @@
 # mBlazonry's Support Tracker #
 
-Navigate the link ↓below↓ for the issue-tracker, or the relevant names of the mBlazonry support items you wish to see for their relevant subsections' description: 
+Navigate the link ↓below↓ for the issue-tracker, or the relevant names of the [mBlazonry support items](#support-categories) below that you wish to see for their relevant subsections' description: 
 
 [Go to issue tracker](/../../issues)  :neckbeard:
 
