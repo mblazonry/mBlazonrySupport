@@ -24,6 +24,6 @@
    },
    "scripts":
    {
-      "build-toc": "doctoc .\Components\INSTALLATION.md --notitle --github"
+      "build-toc": "doctoc .\\Components\\INSTALLATION.md --notitle --github"
    }
 }
