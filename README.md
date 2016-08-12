@@ -1,8 +1,7 @@
 # mBlazonry's Support Tracker #
-
-Navigate the link ↓below↓ for the issue-tracker, or the relevant names of the [mBlazonry support items](#support-categories) below that you wish to see for their relevant subsections' description: 
-
 [Go to issue tracker](/../../issues)  :neckbeard:
+
+Navigate to the link above for our issue-tracker, or the relevant names of the [mBlazonry support items](#support-categories) below that you wish to see for their relevant subsections' description: 
 
 Feel free to post all feature-requests, improvement ideas or anything you might want to see out of mB! :squirrel:
 
@@ -11,8 +10,8 @@ We will rapidly and diligently assist you!
 
 ## Support Categories  ##
 
-> ### [Components](Components/README.md) ###
-> ### [Snippets](Snippets/README.md) ###
+> ### [Components](Components) ###
+> ### [JavaScript](JavaScript) ###
 
 
 
