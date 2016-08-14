@@ -34,3 +34,11 @@ Please note that this is written strictly for Skuid 7.x (Banzai) and newer.
 
 
 > ### [Setup Instructions Here](INSTALLATION.md) ###
+
+## SEE ALSO: ##
+
+Originally posted [here](https://community.skuid.com/skuid/topics/action-runner-component) on the :octopus: skuid community
+
+(YouTube video) Using the template as an "Action Runner" component
+
+[![Part 1: the runtime!](https://img.youtube.com/vi/RhZLTzzXn6g/maxresdefault.jpg)](https://youtu.be/RhZLTzzXn6g "Another use for mB Template w/ Action Framework - Call Action Framework from anywhere on page!")
