@@ -8,7 +8,7 @@ Use the links below to go to a specific item's page.
 ## Categories ##
 
 > ### [Inline](Inline) ###
-> ### [Snippets](Snippets) ###
+> ### [Snippets & Field Renderers](Snippets) ###
 
 
 
