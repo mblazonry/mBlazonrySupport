@@ -7,8 +7,8 @@
 - [Creating the skuid component pack](#creating-the-skuid-component-pack)
 - [Making SF Static Resources](#making-sf-static-resources)
 - [Using static resources in skuid](#using-static-resources-in-skuid)
-- [User object and setup for the page](#user-object-and-setup-for-the-page)
-- [Component setup](#component-setup)
+- [Timer User object and general page setup for operation](#timer-user-object-and-general-page-setup-for-operation)
+- [Timer Component setup](#timer-component-setup)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -41,11 +41,14 @@ You can modify the component pack to fit your specific namespace if need be.
 
     ![Static Resource creation part 1](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414420/RackMultipart20160512-99916-ewywni-Component_Pack.png)
 
-4. Create a new static resource with the following information: *(case-sensitive!)* 
+	using the [**.zip from here**](https://drive.google.com/file/d/0B3NE4VBwMig0U05leEVRcy1yRms).
+
+4. **(Timer only)**
+	Create a new static resource with the following information: *(case-sensitive!)* 
 
 	![Component Pack creation part2](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414423/RackMultipart20160512-102723-195rk6a-CounterStaticResource.png) 
 
-	using the [.zip from here](https://drive.google.com/file/d/0B3NE4VBwMig0U05leEVRcy1yRms).
+	
 
 ## Using static resources in skuid ##
 
@@ -59,7 +62,7 @@ You can modify the component pack to fit your specific namespace if need be.
 
 	![Counter Static Resource CSS](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414419/RackMultipart20160512-5944-iamf11-CounterStaticResourceCSS.png)
 
-## User object and setup for the page  ##
+## Timer User object and general page setup for operation  ##
 
 1. The Timer component was designed to use standard "User" SF object with some added custom fields for persistency. Ours look like:
 
@@ -73,10 +76,11 @@ You can modify the component pack to fit your specific namespace if need be.
 
 	![UserModel Condition](https://d2r1vs3d9006ap.cloudfront.net/s3_images/1414438/RackMultipart20160512-14020-x550fw-CurrentUser_Model.png)
 	
-## Component setup  ##
+## Timer Component setup  ##
 
 
 1. Set the Timer's properties as appropriate for your situation.
 
-2. Important: the "Actions" tab is where you will be tying the timer events in with Action Framework items. **Be sure** to fill those in and fire the events. 
-ex: we have popups that display when the timer is started and stopped, inside of which we have buttons leveraging Action Framework to update other models and save the recorded start/end times.
+2. Important: the "Actions" tab is where you will be tying timer events to Action Framework items. **Be sure** to fill those in and fire the events!
+
+	ex: in my  Org, we have popups that display the timer start and stopp times. Inside of those we have buttons which leverage Action Framework to update other models and save recorded start/end times.
