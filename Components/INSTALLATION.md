@@ -1,8 +1,9 @@
 # INSTALLATION  #
 
+####  Tabe of Contents: ####
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-####  Tabe of Contents: ####
 
 - [Creating the skuid component pack](#creating-the-skuid-component-pack)
 - [Making SF Static Resources](#making-sf-static-resources)
