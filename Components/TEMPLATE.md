@@ -9,6 +9,7 @@ Features:
 	- you can use custom events
 	- can be "hidden" from the page while still listening to events
 	- (see: use as an [Action Runner](#action-runner)!)
+	- If the component has context, this context *will be used* when running Action Framework
 - Assumes that if you are firing Action Framework Events with a mouseClick that you want the resulting template to have the css `cursor: pointer; ` proprety set to make it look clickable.
 - written strictly for skuid Banzai and newer. 
 
