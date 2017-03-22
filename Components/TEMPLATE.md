@@ -1,6 +1,6 @@
 # Template Component #
 
-Originally posted [here](https://community.skuid.com/skuid/topics/template-component-with-action-framework) on the :octopus: skuid community. 
+Posted [here on the :octopus: skuid community](https://community.skuid.com/skuid/topics/template-component-with-action-framework) Originally. 
 
 ----------
 Features:
