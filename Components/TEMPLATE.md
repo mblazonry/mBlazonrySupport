@@ -1,4 +1,4 @@
-# Template Component#
+# Template Component #
 
 Originally posted [here](https://community.skuid.com/skuid/topics/template-component-with-action-framework) on the :octopus: skuid community. 
 
