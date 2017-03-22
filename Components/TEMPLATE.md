@@ -3,6 +3,18 @@
 Originally posted [here](https://community.skuid.com/skuid/topics/template-component-with-action-framework) on the :octopus: skuid community. 
 
 ----------
+Features:
+- Context-model awareness
+- Action Framework enabled
+	- you can use custom events
+	- can be "hidden" from the page while still listening to events
+	- (see: use as an [Action Runner](#action-runner)!)
+- Assumes that if you are firing Action Framework Events with a mouseClick that you want the resulting template to have the css `cursor: pointer; ` proprety set to make it look clickable.
+- written strictly for skuid Banzai and newer. 
+
+### [Setup Instructions Here](INSTALLATION.md) ###
+
+## Motivation ##
 
 This one started off as a simple task I had to do, and ended up being rather complicated.
 
@@ -18,11 +30,10 @@ So I did it initially with a stock Template component, with the "Allow HTML" opt
 
 So, simply, I made an Action Framework-able Template Component!
 
-It assumes that if you are firing Action Framework Events with a mouseClick that you want the resulting template to have the `cursor: pointer; ` CSS set to make it look clickable.
-
 Please note that this is written strictly for Skuid 7.x (Banzai) and newer. 
 
-## DEMOS: ##
+
+## DEMOS ##
 
 (YouTube video) Part 1: the builder!
 
@@ -33,12 +44,7 @@ Please note that this is written strictly for Skuid 7.x (Banzai) and newer.
 [![Part 1: the runtime!](https://img.youtube.com/vi/d6pzaAtZ04w/maxresdefault.jpg)](https://youtu.be/d6pzaAtZ04w "Timer component - builder demo!")
 
 
-> ### [Setup Instructions Here](INSTALLATION.md) ###
+## ACTION RUNNER ##
+YouTube video: Using the template as an "Action Runner"
 
-## SEE ALSO: ##
-
-Originally posted [here](https://community.skuid.com/skuid/topics/action-runner-component) on the :octopus: skuid community
-
-(YouTube video) Using the template as an "Action Runner" component
-
-[![Part 1: the runtime!](https://img.youtube.com/vi/RhZLTzzXn6g/maxresdefault.jpg)](https://youtu.be/RhZLTzzXn6g "Another use for mB Template w/ Action Framework - Call Action Framework from anywhere on page!")
+[![Action Runner](https://img.youtube.com/vi/RhZLTzzXn6g/maxresdefault.jpg)](https://youtu.be/RhZLTzzXn6g "Another use for mB Template w/ Action Framework - Call Action Framework from anywhere on page!")
